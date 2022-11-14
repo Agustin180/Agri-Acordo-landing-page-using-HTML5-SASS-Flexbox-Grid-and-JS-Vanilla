@@ -1,0 +1,11 @@
+INSTRUCCIONES
+
+-Maquetar el diseño propuesto en el archivo "diseño.jpg" en un archivo "index.html". Agregar hojas de estilo (css o sass) y javascript - este último, en caso ser necesario -. 
+-A partir del diseño, generar una propuesta que sea responsive, y que se vea correctamente en dispositivos intermedios y mobile. Mientras que el diseño desktop sí debe ser idéntico, la propuesta mobile es libre y a cargo del candidato o candidata.
+-En la primera sección, se espera que la computadora quede fija, y las imágenes pasen en forma de slider.
+-El uso de Boostrap está permitido.
+-Todos los textos pueden ser reemplazados por otros generados automáticamente.
+-El desarrollo del menú no es necesario y por eso no fue provisto el diseño.
+-Las imágenes necesarias se encuentran en la ruta 'assets/img/'.
+-Subir los resultados al repositorio .
+
